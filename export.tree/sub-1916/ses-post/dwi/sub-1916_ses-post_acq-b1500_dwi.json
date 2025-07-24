@@ -1,0 +1,28 @@
+{
+	"Manufacturer": "Philips",
+	"PatientPosition": "HFS",
+	"SeriesDescription": "ImageMRSERIES",
+	"ProtocolName": "WIPDTISENSE",
+	"SeriesNumber": 7,
+	"AcquisitionNumber": 7,
+	"ImageComments": "PreK",
+	"PhilipsRescaleSlope": 7.22906,
+	"PhilipsRescaleIntercept": 0,
+	"PhilipsScaleSlope": 0.000611692,
+	"UsePhilipsFloatNotDisplayScaling": 1,
+	"EchoTime": 0.083,
+        "PhaseEncodingDirection": "j",
+	"EffectiveEchoSpacing": 0.00044524589,
+	"TotalReadoutTime": 0.0284957368,
+	"RepetitionTime": 7.2,
+	"ReconMatrixPE": 96,
+	"ImageOrientationPatientDICOM": [
+		0.994587,
+		0.103506,
+		0.00908788,
+		-0.103658,
+		0.994447,
+		0.0181788	],
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20190902"
+}
